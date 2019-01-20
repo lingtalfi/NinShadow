@@ -25,7 +25,7 @@ There are two main types of shadow actions:
 The localized action
 ----------------------
 
-[![localized-loader.png](https://s19.postimg.org/fxwstafhv/localized-loader.png)](https://postimg.org/image/o3eurg3qn/)
+[![localized-loader.png](https://i.postimg.cc/ZKJJFn30/localized-loader.png)](https://postimg.cc/3WbM3KtH)
 
 The localized action consist of displaying a small ajax loader, next to the gui control
 the user just interacted with.
@@ -38,7 +38,7 @@ and disappears when the background action completes.
 The generic action
 ----------------------
 
-[![overlay-loader.png](https://s19.postimg.org/t4qu6rqcz/overlay-loader.png)](https://postimg.org/image/tu9mj4qwf/)
+[![overlay-loader.png](https://i.postimg.cc/cHmn1H8j/overlay-loader.png)](https://postimg.cc/G842qbKJ)
 
 The generic action is an overlay spanning the whole page,
 and the loader is right in the center.
